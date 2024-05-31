@@ -11,6 +11,11 @@ Kotlin 不只是行動端開發的利器。其現代化特性和卓越的表達�
 
 # Q&A Related 
 
+## 有遇到什麼 Kotlin mixed Java 的問題嗎？
+Other legacy coder...
+![img_1.png](img_1.png)
+- [處理 platform type](https://ithelp.ithome.com.tw/articles/10316786)
+
 ## Kotlin with Java Reflection
 - Kotlin 也是 compile 成 .class 可以被 java reflection 使用到
 - Kotlin reflection - https://www.baeldung.com/kotlin/reflection
