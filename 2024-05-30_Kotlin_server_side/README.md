@@ -15,9 +15,8 @@
 ## Q&A Related 
 
 ### 有遇到什麼 Kotlin mixed Java 的問題嗎？
-Other legacy coder...
-![img_1.png](imgs/img_1.png)
-- [處理 platform type](https://ithelp.ithome.com.tw/articles/10316786)
+- Should Delombok
+- https://xebia.com/blog/using-kotlin-in-a-java-project-10-lessons-learned/
 
 ### Kotlin with Java Reflection
 - Kotlin 也是 compile 成 .class 可以被 java reflection 使用到
